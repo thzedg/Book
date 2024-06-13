@@ -1,0 +1,10 @@
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL Sách.csproj.AssemblyReference.cache
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL_Sách.Form1.resources
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL_Sách.Properties.Resources.resources
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL Sách.csproj.GenerateResource.cache
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL Sách.csproj.CoreCompileInputs.cache
+C:\Users\thzEd\source\repos\QL Sách\bin\Debug\QL Sách.exe.config
+C:\Users\thzEd\source\repos\QL Sách\bin\Debug\QL Sách.exe
+C:\Users\thzEd\source\repos\QL Sách\bin\Debug\QL Sách.pdb
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL Sách.exe
+C:\Users\thzEd\source\repos\QL Sách\obj\Debug\QL Sách.pdb
